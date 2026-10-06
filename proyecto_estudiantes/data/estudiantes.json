@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "apellido": "Perez",
+    "email": "ana@escuela.edu",
+    "carnet": "EST010",
+    "notas": {
+      "Matematica": [
+        18.0,
+        20.0
+      ],
+      "Ingles": [
+        16.0
+      ]
+    },
+    "materias": [
+      "Matematica",
+      "Ingles"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "apellido": "Garcia",
+    "email": "luis@escuela.edu",
+    "carnet": "EST002",
+    "notas": {
+      "Matematica": [
+        15.0
+      ],
+      "Programacion": [
+        19.0
+      ]
+    },
+    "materias": [
+      "Matematica",
+      "Programacion"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Nataly",
+    "apellido": "Arambulo",
+    "email": "narambulo@unemi.edu",
+    "carnet": "EST007",
+    "notas": {
+      "Fisica": [
+        18.0
+      ]
+    },
+    "materias": [
+      "Fisica"
+    ]
+  }
+]
